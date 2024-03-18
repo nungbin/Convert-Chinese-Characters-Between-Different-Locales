@@ -18,4 +18,6 @@ Please feel free to make a copy of the Google sheet. All the code can be seen by
 
 - Select the **From** locale and the **To** locale.
 
+- Clear the field(s) under **Finished** column.
+
 - Click on the **Go** button to start the conversion.
