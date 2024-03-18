@@ -10,12 +10,12 @@ Please feel free to make a copy of the Google sheet. All the code can be seen by
 
 
 
-1. Note down the document ID
+-  Note down the document ID
 ![](https://github.com/nungbin/Convert-Chinese-Characters-Between-Different-Locales/blob/main/1.jpg)
 
-2. Copy the document ID to a blank cell under column A
+-  Copy the document ID to a blank cell under column A
+![](https://github.com/nungbin/Convert-Chinese-Characters-Between-Different-Locales/blob/main/2.jpg)
 
+- Select the **From** locale and the **To** locale.
 
-3. Select the **From** locale and the **To** locale.
-
-4. Click on the **Go** button to start the conversion.
+- Click on the **Go** button to start the conversion.
