@@ -1,6 +1,6 @@
 # Feature
 
-This Google [sheet](https://docs.google.com/spreadsheets/d/168JmVtxCAUMVs08IECgaavKVfPyxLe3oNiQqVrenrZU/edit#gid=0) allows to convert Chinese characters between different locales through a list of Google docs.
+This Google [sheet](https://docs.google.com/spreadsheets/d/168JmVtxCAUMVs08IECgaavKVfPyxLe3oNiQqVrenrZU/edit#gid=0) allows to convert Chinese characters between different locales (繁簡中文轉換) through a list of Google docs.
 
 All the credit goes to [nk2028](https://github.com/nk2028/opencc-js "nk2028") for the core logic of the actual conversion.
 
